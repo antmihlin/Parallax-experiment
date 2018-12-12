@@ -8,7 +8,7 @@ Uses es6, pug, sass.
 
 In the future project will be converted to a mini library.
 
-##Usage with html classes:
+## Usage with html classes:
 
 Set direction of movement (use direction): .left .right .top .bottom
 
