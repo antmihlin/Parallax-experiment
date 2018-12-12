@@ -1,6 +1,7 @@
 # Parallax-experiment
 
 Parallax experiment. Elements move with scrolling Animations bound to elements with classes.
+[Demo](https://codepen.io/AntM/pen/YRMoLo?editors=1010)
 
 Uses es6, pug, sass.
 
